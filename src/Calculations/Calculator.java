@@ -434,6 +434,7 @@ public class Calculator extends javax.swing.JFrame {
     }//GEN-LAST:event_jBtn6ActionPerformed
 
     private void jBtn1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jBtn1ActionPerformed
+
         String Enternumber=jtxtDisplay.getText()+jBtn1.getText();
         jtxtDisplay.setText(Enternumber);
     }//GEN-LAST:event_jBtn1ActionPerformed
